@@ -1,6 +1,4 @@
-###KeyPi
-
-Custom Buildroot linux image for RaspberryPi 4 x64.
+### KeyPi
 
 ```
 # git submodule update --init --recursive
