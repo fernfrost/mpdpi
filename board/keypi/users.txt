@@ -1,0 +1,1 @@
+	mpd 1001 audio 29 * /var/lib/mpd - -
